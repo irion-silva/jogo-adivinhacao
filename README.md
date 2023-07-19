@@ -25,7 +25,7 @@ Contém validação dos campos, lidamos com posicionamento, utilizamos pseudo-cl
 
 ## Acesso ao projeto
 
-O projeto está disponível no seguinte link: [link para o website]("link do projeto").
+O projeto está disponível no seguinte link: [link para o website](https://jogo-adivinhacao-chi.vercel.app/).
 
 ## Tecnologias utilizadas
 
